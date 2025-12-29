@@ -8,4 +8,4 @@
 Java / Spring / C
 
 ### Projects:
-ALOC Spring Team 🍀
+ALOC Spring Team 🍀 (2025.09-2025.12)
