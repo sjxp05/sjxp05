@@ -4,8 +4,19 @@
 
 </div>
 
-### Interested in:
-Java / Spring / C
+# About Me:
+Majoring in CS, University of Seoul
 
-### Projects:
+# Tech Stack
+
+### Languages
+Java / C / Javascript
+
+### Libraries & Frameworks
+Spring Boot / React
+
+### ETC
+MySQL / PostgreSQL
+
+# Projects:
 ALOC Spring Team 🍀 (2025.09-2025.12)
