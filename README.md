@@ -4,10 +4,13 @@
 
 </div>
 
-# About Me:
+## About Me:
+
 Majoring in CS, University of Seoul
 
-# Tech Stack
+---
+
+## Tech Stack:
 
 ### Languages
 Java / C / Javascript
@@ -18,5 +21,7 @@ Spring Boot / React
 ### ETC
 MySQL / PostgreSQL
 
-# Projects:
+---
+
+## Projects:
 ALOC Spring Team 🍀 (2025.09-2025.12)
