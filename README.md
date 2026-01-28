@@ -20,8 +20,3 @@ Spring Boot / React
 
 ### ETC
 MySQL / PostgreSQL
-
----
-
-## Projects:
-ALOC Spring Team 🍀 (2025.09-2025.12)
