@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=200&section=header&text=Jiin%20|%20Backend&fontSize=40%fontColor=f5f5f5"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=200&section=header&text=Jiin%20|%20Backend&fontSize=35%fontColor=f5f5f5"/>
 
 </div>
 
@@ -13,10 +13,10 @@ Majoring in CS, University of Seoul
 ## Tech Stack:
 
 ### Languages
-Java / C / Javascript
+Java / C / Javascript / Python
 
 ### Libraries & Frameworks
-Spring Boot / React
+Spring Boot / FastAPI / React
 
 ### ETC
 MySQL / PostgreSQL
