@@ -13,10 +13,18 @@ Majoring in CS, University of Seoul
 ## Tech Stack:
 
 ### Languages
-Java / C / Javascript / Python
+Java / C / JavaScript / Python
 
 ### Libraries & Frameworks
 Spring Boot / FastAPI / React
 
 ### ETC
 MySQL / PostgreSQL
+
+---
+
+## Projects:
+
+**2026. 03 - Current** SoWhat: LLM 기반 개인 맞춤형 뉴스 해설 서비스
+
+**2025. 09 - 2025. 12** Spring framework inverse engineering project
